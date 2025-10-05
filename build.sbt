@@ -6,5 +6,5 @@ lazy val junitBom = Bom("org.junit" % "junit-bom" % "5.13.4")
 libraryDependencies += "org.junit" % "junit-bom" % "5.13.4" % Test
 
 // Junit dep as a regular dep
-libraryDependencies += "org.junit.jupiter" % "junit-jupiter" % "5.13.4" % Test
+libraryDependencies += "org.junit.jupiter" % "junit-jupiter" % "5.14.0" % Test
 
